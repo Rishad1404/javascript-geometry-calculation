@@ -16,6 +16,6 @@ function calculateParallelogramArea(){
     console.log('The area of parallelogram is: ',parallelogramArea)
 
     // Display the area
-    const parallelogramAreaSpan=document.getElementById('rhombus-area');
+    const parallelogramAreaSpan=document.getElementById('parallelogram-area');
     parallelogramAreaSpan.innerText=parallelogramArea;
 }
