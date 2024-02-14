@@ -19,4 +19,5 @@ function calculatePentagonArea(){
     // Display the area
     const pentagonAreaSpan=document.getElementById('pentagon-area');
     pentagonAreaSpan.innerText=pentagonArea;
+
 }
